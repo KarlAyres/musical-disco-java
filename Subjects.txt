@@ -1,0 +1,3 @@
+PHY102: Electricity and Waves
+ITC206: Programming in Java 1
+MTH102: Computer Aided Mathematics 2
