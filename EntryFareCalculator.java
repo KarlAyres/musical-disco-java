@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TaskTwo {
+public class EntryFareCalculator {
     public static void main(String[] args) {
 
         // Create Scanner object
