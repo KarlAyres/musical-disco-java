@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TaskOne {
+public class IncomeTaxCalculator {
     public static void main(String[] args) {
 
         // Create Scanner object
